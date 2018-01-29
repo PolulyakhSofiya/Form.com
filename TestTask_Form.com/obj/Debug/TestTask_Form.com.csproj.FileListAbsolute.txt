@@ -1,0 +1,6 @@
+D:\resume\TestTask_Form.com\TestTask_Form.com\bin\Debug\TestTask_Form.com.exe.config
+D:\resume\TestTask_Form.com\TestTask_Form.com\bin\Debug\TestTask_Form.com.exe
+D:\resume\TestTask_Form.com\TestTask_Form.com\bin\Debug\TestTask_Form.com.pdb
+D:\resume\TestTask_Form.com\TestTask_Form.com\obj\Debug\TestTask_Form.com.csprojResolveAssemblyReference.cache
+D:\resume\TestTask_Form.com\TestTask_Form.com\obj\Debug\TestTask_Form.com.exe
+D:\resume\TestTask_Form.com\TestTask_Form.com\obj\Debug\TestTask_Form.com.pdb
